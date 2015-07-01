@@ -17,36 +17,29 @@ The purple cat is being silly.
 ### Exercise:
 
 ```
-Samus will at some time in the future ride her spaceship to another planet.
+Samus will eventually ride her spaceship to another planet.
 ```
 
 ```
-Samus will at some time in the future transport from one place to another from earth to another planet.
+Samus will eventually transport to earth and other planets.
 ```
 
 ```
-Link is the hero
-of Hyrule
-
-.
+Link is the hero of Hyrule.
 ```
 
 ```
-Zelda is also the hero, too.
+Zelda is also the hero.
 ```
 
 ```
-Gannon 
-is
-a
-beast
-.
+Gannon is a beast.
 ```
 
 ```
-A teenage boy will smoke his first marijuana cigarette, within an hour he will laugh at the  thought of a horse riding a jockey, instead of the other way around. A teenage boy will smoke his first marijuana cigarette. A teenage boy will smoke his first marijuana cigarette. A teenage boy will smoke his first marijuana cigarette, within an hour he will laugh at the  thought of a horse riding a jockey, instead of the other way around. A teenage boy will smoke his first marijuana cigarette. A teenage boy will smoke his first marijuana cigarette.
+Within an hour after smoking his first marijuana cigarette, a teenager boy will laugh at the thought of a horse riding a jockey. 
 ```
 
 ```
-Everyone on earth will become flesh-eating zombies. When the flesh is all gone, that is to say, when there is no more flesh because the flesh is all gone, they will be dirt-eating zombies because the flesh is all gone.
+Everyone on earth will become flesh-eating zombies. When the flesh is all gone, they will be dirt-eating zombies. 
 ```
